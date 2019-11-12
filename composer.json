@@ -1,0 +1,17 @@
+{
+    "name": "l24/middleware",
+    "description": "Leebmann24 Middleware Package",
+    "type": "project",
+    "authors": [
+        {
+            "name": "mtrefz",
+            "email": "Michael.Trefz@Leebmann.de"
+        }
+    ],
+    "require": {},
+	"autoload": {
+      "psr-4": {
+          "l24\\middleware\\": "src/"
+        }
+	}
+}
